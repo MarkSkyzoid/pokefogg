@@ -1,3 +1,8 @@
+This is a reimagination of Pokemon Red/Blue set in the southern Italian city of Foggia.
+This is based on the pokered disassembly.
+
+ORIGINAL README:
+----------------------------------------------------------------------------------
 # Pokémon Red and Blue
 
 This is a disassembly of Pokémon Red and Blue.
