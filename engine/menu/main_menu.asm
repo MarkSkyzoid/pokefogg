@@ -332,8 +332,8 @@ ContinueText:
 	db "CONTINUE", $4e
 
 NewGameText:
-	db   "NEW GAME"
-	next "OPTION@"
+	db   "ACCUMMENZ"
+	next "SMANETT@"
 
 CableClubOptionsText:
 	db   "TRADE CENTER"

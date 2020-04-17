@@ -1,11 +1,11 @@
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "Cia ciaccani!"
+	line "Finalmend st'j"
+	cont "a Fogg'!"
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "So Emilio Cavelli"
+	line "Ma m chiam'n"
+	cont "schkit Emilij!"
 	prompt
 
 _OakSpeechText2A::
